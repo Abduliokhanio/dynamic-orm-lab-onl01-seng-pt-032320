@@ -59,7 +59,6 @@ class InteractiveRecord
       FROM #{table_name}
       WHERE name = ?
       SQL
-    SQL
   end
 
 end
